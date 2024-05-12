@@ -2,3 +2,9 @@ div{
     background-color: red;
     width: 35%;
 }
+
+img{
+    height: 300px;
+    width: 300px;
+    margin-left:40px ;
+}
